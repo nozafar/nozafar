@@ -1,7 +1,7 @@
 <!-- GitHub Profile README -->
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=1000&center=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Md+Nomaan+Zafar!;Web+Developer+%7C+CS+Undergrad+%7C+Tech+Enthusiast;Always+Learning+Something+New..." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=1000&center=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Md+Nomaan+Zafar!;CS+Undergrad+%7C+Tech+Enthusiast;Always+Learning+Something+New..." alt="Typing SVG" />
 </h1>
 
 <p align="center">
